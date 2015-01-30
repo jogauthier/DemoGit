@@ -19,8 +19,9 @@ public class DemoGit {
            System.out.println("Wrong args");
            System.exit(1);
         }
-       
+
         System.out.println("Hello" + args[0]+ "!");
         System.out.println("Hello" + args[0]+ "!");
+
     }
 }
